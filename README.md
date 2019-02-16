@@ -4,7 +4,7 @@
 
 <div align="center">
 	<a href="#changelog">
-		<img src="https://img.shields.io/badge/stability-stable-green.svg" alt="Status">
+		<img src="https://img.shields.io/badge/stability-frozen-blue.svg" alt="Status">
 	</a>
 	<a href="#changelog">
 		<img src="https://img.shields.io/badge/release-v1.0.0-blue.svg" alt="Version">
@@ -41,6 +41,13 @@ This page will help you get started with Internationalization Project.
 
   * This file don't require installation
 
+<a name="Donate"></a>
+## :gift: Donate!
+
+If you want to help me to continue this project, you might donate via PayPal.
+
+<a href="https://paypal.me/ManuelFGil"><img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png" alt="Donate via PayPal"></a>
+
 <a name="changelog"></a>
 ## :information_source: Changelog
 
@@ -69,17 +76,10 @@ This page will help you get started with Internationalization Project.
 		</tr>
 	</table>
 
-<a name="Donate"></a>
-## :gift: Donate!
-
-If you want to help me to continue this project, you might donate via PayPal.
-
-<a href="https://paypal.me/ManuelFGil"><img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png" alt="Donate via PayPal"></a>
-
 <a name="authors"></a>
 ## :eyeglasses: Authors
 
-  * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil) 
+  * **Manuel Gil** - *Owner* - [ManuelGil](https://github.com/ManuelGil) 
 
 See also the list of [contributors](https://github.com/ManuelGil/Internationalization/contributors)
  who participated in this project.
